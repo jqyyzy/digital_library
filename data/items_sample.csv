@@ -1,0 +1,21 @@
+title,author,subject,year,abstract,tags,availability
+Deep Learning with Python,François Chollet,Computer Science,2021,Hands-on introduction to deep learning using Keras and TensorFlow.,"deep learning, neural networks, keras, tensorflow, ai",available
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Software Engineering,2008,"Principles and best practices for writing clean, maintainable code.","clean code, refactoring, best practices, agile",available
+Designing Data-Intensive Applications,Martin Kleppmann,Distributed Systems,2017,"Patterns for data systems: scalability, consistency, reliability.","data systems, database, distributed, scalability, consistency",available
+Introduction to Algorithms,Thomas H. Cormen,Algorithms,2009,Comprehensive textbook covering a broad range of algorithms.,"algorithms, data structures, complexity",unavailable
+The Pragmatic Programmer: Your Journey to Mastery,Andrew Hunt; David Thomas,Software Engineering,2019,Modern edition of classic guidance for pragmatic software development.,"practices, craftsmanship, productivity, tips",available
+Python Cookbook,David Beazley; Brian K. Jones,Programming,2013,Recipes for Python programmers covering a wide range of topics.,"python, recipes, tips, patterns",available
+Natural Language Processing with Transformers,Lewis Tunstall; Leandro von Werra; Thomas Wolf,Natural Language Processing,2022,Practical guide to building NLP systems with transformer models.,"nlp, transformers, huggingface, bert, gpt",available
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",Aurélien Géron,Machine Learning,2023,End-to-end ML with practical examples and modern libraries.,"machine learning, scikit-learn, keras, tensorflow",available
+Database System Concepts,Abraham Silberschatz; Henry F. Korth; S. Sudarshan,Databases,2020,Foundational principles of database systems and architectures.,"sql, transactions, indexing, concurrency",unavailable
+Site Reliability Engineering: How Google Runs Production Systems,Betsy Beyer; Chris Jones; Jennifer Petoff; Niall Richard Murphy,SRE / DevOps,2016,"Principles and practices of SRE for reliable, scalable services.","sre, devops, reliability, monitoring, incident response",available
+Building Microservices,Sam Newman,Software Architecture,2021,"Guidance on designing, evolving, and operating microservices.","microservices, architecture, distributed systems",available
+Accelerate: The Science of DevOps,Nicole Forsgren; Jez Humble; Gene Kim,DevOps,2018,Research-backed metrics and practices that drive high performance.,"dora metrics, devops, delivery, performance",available
+"The Art of Computer Programming, Vol. 1",Donald E. Knuth,Computer Science,2011,Classic text on fundamental algorithms and analysis.,"algorithms, analysis, fundamental",unavailable
+Reinforcement Learning: An Introduction,Richard S. Sutton; Andrew G. Barto,Machine Learning,2018,Foundational concepts and methods in reinforcement learning.,"reinforcement learning, rl, agents, markov decision process",available
+Pattern Recognition and Machine Learning,Christopher M. Bishop,Machine Learning,2006,Probabilistic perspective on pattern recognition and ML.,"bayesian, probability, pattern recognition",unavailable
+Introduction to Information Retrieval,Christopher D. Manning; Prabhakar Raghavan; Hinrich Schütze,Information Retrieval,2008,"Textbook on search engines and IR, including indexing and ranking.","information retrieval, tf-idf, search, ranking",available
+Practical Statistics for Data Scientists,Peter Bruce; Andrew Bruce; Peter Gedeck,Statistics,2020,Essential statistical methods for data science practice.,"statistics, inference, regression, sampling",available
+Effective Java,Joshua Bloch,Programming,2018,Best practices and idioms for writing robust Java code.,"java, best practices, design, patterns",available
+Fundamentals of Database Systems,Ramez Elmasri; Shamkant Navathe,Databases,2016,Comprehensive coverage of database theory and practice.,"database, relational, design, normalization",available
+Operating System Concepts,Abraham Silberschatz; Peter B. Galvin; Greg Gagne,Operating Systems,2018,Core concepts of modern operating systems with case studies.,"operating systems, concurrency, memory, processes",available
